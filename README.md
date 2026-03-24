@@ -62,7 +62,7 @@ Este é um projeto de estudo, mas sugestões são sempre bem-vindas!
 
 Caso queira trocar ideias ou acompanhar minha evolução:
 
-* GitHub: [seu-usuario-aqui]
+* GitHub: [arthurgamaruiz]
 
 ---
 
