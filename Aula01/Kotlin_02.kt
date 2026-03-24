@@ -14,6 +14,7 @@ fun main(){
     c = "Hello"
     println(c)
 
+    //char
     val d: Char     
     d = 'a'             //caracter entre aspas simples 
     println(d)
