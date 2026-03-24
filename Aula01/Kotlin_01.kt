@@ -1,3 +1,3 @@
 fun main() {
-    println("xscasd")
+    println("Hello, World")
 }
