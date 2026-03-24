@@ -31,7 +31,7 @@ fun main(){
     val orResult = (true || false)
     println(orResult)
 
-    val e: Boolean
+    val e: Boolean 
     e = (0==0)
     println(e)
 }
