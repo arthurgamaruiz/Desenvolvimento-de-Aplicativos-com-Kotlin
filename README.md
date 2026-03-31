@@ -62,7 +62,8 @@ Este é um projeto de estudo, mas sugestões são sempre bem-vindas!
 
 Caso queira trocar ideias ou acompanhar minha evolução:
 
-* GitHub: [arthurgamaruiz]
+* [GitHub](arthurgamaruiz)
+* [LinkedIn](https://www.linkedin.com/in/arthur-gama-ruiz-58825a2a3/)
 
 ---
 
