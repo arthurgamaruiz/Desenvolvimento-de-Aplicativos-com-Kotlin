@@ -14,6 +14,6 @@ fun main() {
     println("Entre com sua idade: ")
     idade = readLine()?.toIntOrNull()
 
-    val retorno = saudacao(nome, idade!!)
+    val retorno = saudacao(nome, idade)
     println(retorno)
 }
