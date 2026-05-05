@@ -1,7 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
-fun saudacao(nome: String?, idade: Int): String{
+fun saudacao(nome: String?, idade: Int?): String{
     return ("Olá, "+nome+" ! "+"Você tem "+idade+" anos!")
 }
 fun main() {
